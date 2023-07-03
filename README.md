@@ -1,8 +1,10 @@
 ![ArbiPoster](https://user-images.githubusercontent.com/67806882/163736706-27aac4ed-38b9-4305-b0b1-ae19cdb72e68.png)
 # Arbi
-Arbi! All your studying in one single place with a fun plot twist. Students all around the world study, infact, they have to. Arbi is here to make studying easier and a bit more unique for everyone! Most students study for good grades, their goal isn't to learn something new. Arbi tries to redirect that goal to earning more Arbi. Students will aim to earn more Arbi points leading them to studying more. 
+Arbi offers a revolutionary approach to studying by providing a centralized platform that combines education and entertainment. With a captivating plot twist, Arbi engages students from around the globe in a seamless studying experience. Unlike traditional methods, where students study solely for grades, Arbi encourages a shift in mindset by introducing the concept of earning Arbi points. By setting their sights on accumulating these points, students are naturally incentivized to dedicate more time and effort to their studies.
 
-Since physical exercise is as important as studying. Arbi can only be opened if you complete your daily arbi! The daily arbi consists of a few exercises, and you can keep doing them until you feel like your done. The more of these exercises you do, the more points you get. The daily arbi is a great way to get lots of points! Everytime you open up Arbi you will be greeted with the daily arbi!
+Recognizing the significance of physical exercise in maintaining overall well-being, Arbi incorporates a unique requirement: completing the daily arbi. This daily routine consists of a series of exercises that can be repeated until users feel satisfied with their efforts. Notably, the more exercises students perform, the greater the number of points they can earn. The daily arbi serves as an excellent means to accumulate substantial points while fostering a balanced lifestyle.
+
+Every time users access Arbi, they are warmly greeted with the daily arbi, ensuring that this engaging and rewarding practice becomes an integral part of their study routine. With Arbi, students embark on an educational journey that seamlessly integrates the pursuit of knowledge, physical activity, and personal growth, creating a truly exceptional and immersive study experience.
   
 # How to install
 
